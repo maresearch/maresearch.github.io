@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Guoding Liu
+title: Chenxu Li
 # Is this the primary user of the site?
 superuser: false
 
 authors:
-  - guoding
+  - chenxu
 
 # Role/position
 role: PhD Student
